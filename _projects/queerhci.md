@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Queer HCI
+description: Examining the Experiences of LGBTQ+ People in HCI, and in Social Computing More Broadly
+img: assets/img/3.jpg
+importance: 2
+category:
 ---
 
 Every project has a beautiful feature showcase page.

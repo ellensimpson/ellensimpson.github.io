@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Creativity and Creative Labor
+description: PhD Work
+img: assets/img/12.jpg
+importance: 1
+category:
 ---
 
 Every project has a beautiful feature showcase page.
@@ -16,7 +15,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
+    title: Creativity and Creative Labor
     description: a project with a background image
     img: /assets/img/12.jpg
     ---

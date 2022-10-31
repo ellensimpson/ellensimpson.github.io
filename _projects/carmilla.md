@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Creativity and Creative Labor
-description: PhD Work
-img: assets/img/12.jpg
-importance: 1
+title: Carmilla - The Series
+description: a single-camera web series adaption of Le Fanu's novella, Carmilla.
+img: assets/img/7.jpg
+importance: 3
 category:
 ---
 
@@ -15,7 +15,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: Creativity and Creative Labor
+    title: project
     description: a project with a background image
     img: /assets/img/12.jpg
     ---

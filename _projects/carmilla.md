@@ -7,74 +7,37 @@ importance: 3
 category:
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Carmilla is a love story told for queer women and developed by queer women. It started with a tweet shared between myself and producer Steph Ouaknine, and ran between 2014 and 2017. This sprawling transmedia storytelling experience has over 70 million views on YouTube, and is beloved by many in the LGBTQ+ community as one of the first examples of a lesbian story that does not bury their gays, and tells the story of a couple coming together and growing together. It is a fun thing I did during my twenties.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CarmS1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CarmS2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CarmS3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+      **Carmilla: The Series** - *Social Media Writer, Series Story Editor, Developed (with Jordan Hall) -  Series; Writer - Branded Content*  - [IMDB](https://www.imdb.com/title/tt4127260/?ref_=tt_rec_tt) - [Watch on YouTube](https://www.youtube.com/watch?v=h4QzRfvkJZ4)
+      Summary: A single-frame web series staring Elise Bauman and Natasha Negovanlis loosely based on the novella of the same name by Sheridan Le Fanu. The series premiered on the Vervegirl (rebranded as KindaTV as of January 2016) YouTube channel on August 19, 2014. The series takes place at the fictional Silas University in Styria, Austria and is told through vlogs recorded by Laura, a first-year student. When Laura begins investigating the disappearance of her roommate, she is assigned a new roommate named Carmilla.
+      * **Awards**
+        * 2014 - AfterEllen Visibility Awards - Favorite Webseries
+        * 2015 - AfterEllen Visibility Awards - Favorite Lesbian/Bi TV Character
+        * 2015 - AfterEllen Visibility Awards - Favorite Fictional Lesbian Couple
+        * 2015 - AfterEllen Visibility Awards - Best Web Series
+        * 2015 - Digi Awards - Branded Content
+        * 2016 - Canadian Screen Awards - Digital Media Program/Series - Fictional
+        * 2016 - Banff Rockies Awards - Branded Content Award
+        * 2018 - MIPTV Media Market - Branded Content of the Year
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Carmmovie3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    **The Carmilla Movie** - *(Creative Consultant)*  - [IMDB](https://www.imdb.com/title/tt7427856/) - [Currently Streaming On](https://www.tvguide.com/movies/the-carmilla-movie/2030240861/) - [Download/Purchase Information](https://carmillamovie.vhx.tv/)
+      Summary: It has been five years since Laura and Carmilla vanquished the apocalypse and Carmilla became a bona fide mortal human. They have settled in to a cozy apartment in downtown Toronto; Laura continues to hone her journalism skills while Carmilla adjusts to a non-vampire lifestyle. Their domestic bliss is suddenly ruptured when Carmilla begins to show signs of "re-vamping" - from a fondness for bloody treats to accidental biting - while Laura has started having bizarre, ghostly dreams. The couple must now enlist their old friends from Silas University to uncover the unknown supernatural threat and save humanity - including Carmilla's.
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}

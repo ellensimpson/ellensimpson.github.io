@@ -20,7 +20,7 @@ nav_order: 2
 
 05. **Simpson, E** . and Semaan, B. (2021). For You, or For "You"?: Everyday LGBTQ+ Encounters with TikTok. Proceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing. 4, CSCW3, Article 252 (January 2021), 34 pages. https://doi.org/10.1145/3432951 - [read a preprint here](/assets/pdf/CSCW20TikTok.pdf)
 
-#### *Papers in submission*
+### *Papers in submission*
   * **Simpson, E.**, and Semaan, B. Rethinking Creative Labor: A Sociotechnical Examination of Creativity and Creative Work on TikTok (2022). *(CHI)*
   * Taylor, J. **Simpson, E.**, Tran, A., Wang, K., and Zhu, H. Compiling a Queer Archive: A Chronological Literature Review of Queerness in HCI. (2022). *(CHI)*
   * Dym, B., **Simpson, E.** and striegl, l.r. (2022) Accidental Archiving and Sustainable Game Preservation Work. *(Journal of Electronic Gaming and Esports)*

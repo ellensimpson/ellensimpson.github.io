@@ -20,10 +20,10 @@ Carmilla is a love story told for queer women and developed by queer women. It s
         {% include figure.html path="assets/img/CarmS3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-      **Carmilla: The Series** - *Social Media Writer, Series Story Editor, Developed (with Jordan Hall) -  Series; Writer - Branded Content*  - [IMDB](https://www.imdb.com/title/tt4127260/?ref_=tt_rec_tt) - [Watch on YouTube](https://www.youtube.com/watch?v=h4QzRfvkJZ4)
-      Summary: A single-frame web series staring Elise Bauman and Natasha Negovanlis loosely based on the novella of the same name by Sheridan Le Fanu. The series premiered on the Vervegirl (rebranded as KindaTV as of January 2016) YouTube channel on August 19, 2014. The series takes place at the fictional Silas University in Styria, Austria and is told through vlogs recorded by Laura, a first-year student. When Laura begins investigating the disappearance of her roommate, she is assigned a new roommate named Carmilla.
-      * **Awards**
+**Carmilla: The Series** - *Social Media Writer, Series Story Editor, Developed (with Jordan Hall) -  Series; Writer - Branded Content*  - [IMDB](https://www.imdb.com/title/tt4127260/?ref_=tt_rec_tt) - [Watch on YouTube](https://www.youtube.com/watch?v=h4QzRfvkJZ4)
+Summary: A single-frame web series staring Elise Bauman and Natasha Negovanlis loosely based on the novella of the same name by Sheridan Le Fanu. The series premiered on the Vervegirl (rebranded as KindaTV as of January 2016) YouTube channel on August 19, 2014. The series takes place at the fictional Silas University in Styria, Austria and is told through vlogs recorded by Laura, a first-year student. When Laura begins investigating the disappearance of her roommate, she is assigned a new roommate named Carmilla.
+
+      **Awards**
         * 2014 - AfterEllen Visibility Awards - Favorite Webseries
         * 2015 - AfterEllen Visibility Awards - Favorite Lesbian/Bi TV Character
         * 2015 - AfterEllen Visibility Awards - Favorite Fictional Lesbian Couple
@@ -38,6 +38,7 @@ Carmilla is a love story told for queer women and developed by queer women. It s
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Carmmovie3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    **The Carmilla Movie** - *(Creative Consultant)*  - [IMDB](https://www.imdb.com/title/tt7427856/) - [Currently Streaming On](https://www.tvguide.com/movies/the-carmilla-movie/2030240861/) - [Download/Purchase Information](https://carmillamovie.vhx.tv/)
-      Summary: It has been five years since Laura and Carmilla vanquished the apocalypse and Carmilla became a bona fide mortal human. They have settled in to a cozy apartment in downtown Toronto; Laura continues to hone her journalism skills while Carmilla adjusts to a non-vampire lifestyle. Their domestic bliss is suddenly ruptured when Carmilla begins to show signs of "re-vamping" - from a fondness for bloody treats to accidental biting - while Laura has started having bizarre, ghostly dreams. The couple must now enlist their old friends from Silas University to uncover the unknown supernatural threat and save humanity - including Carmilla's.
 </div>
+
+**The Carmilla Movie** - *(Creative Consultant)*  - [IMDB](https://www.imdb.com/title/tt7427856/) - [Currently Streaming On](https://www.tvguide.com/movies/the-carmilla-movie/2030240861/) - [Download/Purchase Information](https://carmillamovie.vhx.tv/)
+Summary: It has been five years since Laura and Carmilla vanquished the apocalypse and Carmilla became a bona fide mortal human. They have settled in to a cozy apartment in downtown Toronto; Laura continues to hone her journalism skills while Carmilla adjusts to a non-vampire lifestyle. Their domestic bliss is suddenly ruptured when Carmilla begins to show signs of "re-vamping" - from a fondness for bloody treats to accidental biting - while Laura has started having bizarre, ghostly dreams. The couple must now enlist their old friends from Silas University to uncover the unknown supernatural threat and save humanity - including Carmilla's.

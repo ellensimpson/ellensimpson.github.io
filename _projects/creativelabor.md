@@ -12,4 +12,7 @@ In my dissertation work, I seek to uncover these impacts and develop community-d
 From how algorithmic systems shape how we routinely experience entertainment on streaming services or news on Facebook or Twitter, or how the art people make and share online is shaped by and through the logics of these platforms, my work takes the stance that systems have the power to influence individual action, while individuals, in turn, have agency in navigating and circumventing this power. Drawing on a mixed-methods research practice, I take an infrastructural approach to examine power dynamics between individual users and the online platforms they routinely use. These everyday, mundane encounters reveal how platforms steer their users into behaving in specific ways, which can have detrimental impacts on the individual’s sense of self, their creative work, and the overall quality of the platform environment. With attention at a premium on online platforms, understanding how creatives work - or do not work - toward attaining that attention will provide valuable insight into how to better support the creatives whose (largely unpaid) labor creates the current social media entertainment environment we all live in today. 
 
 ## Papers In This Project
-01. **Simpson, E.**, and Semaan, B. Rethinking Creative Labor: A Sociotechnical Examination of Creativity and Creative Work on TikTok (2022). *(in Submission at CHI)*
+01. **Simpson, E.**, and Semaan, B. (2022) Rethinking Creative Labor: A Sociotechnical Examination of Creativity and Creative Work on TikTok. In
+Proceedings of the 2023 CHI Conference on Human Factors in Computing
+Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. ACM, New York,
+NY, USA, 16 pages. https://doi.org/10.1145/3544548.35

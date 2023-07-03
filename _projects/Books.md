@@ -21,7 +21,7 @@ category:
 
 **A Heist Story** - *2018* - [Winner, 2015 Wattys Award](https://www.wattpad.com/list/425707698-wattys-winners-for-2014,-2015-&-2016-not-all-stories-included)
 
-[Preview](https://www.wattpad.com/59727959-a-heist-story-intro) | [Ylva Website](https://www.ylva-publishing.com/product/a-heist-story-by-ellen-simpson/) | [Goodreads](https://www.goodreads.com/book/show/36594263-a-heist-story?from_search=true) | [Amazon](https://www.amazon.com/Heist-Story-Ellen-Simpson-ebook/dp/B078RSDQ44/ref=sr_1_1?ie=UTF8&qid=1515078736&sr=8-1&keywords=a+heist+story+ellen+simpson)
+[Preview](https://www.wattpad.com/59727959-a-heist-story-intro) -  [Ylva Website](https://www.ylva-publishing.com/product/a-heist-story-by-ellen-simpson/) - [Goodreads](https://www.goodreads.com/book/show/36594263-a-heist-story?from_search=true) - [Amazon](https://www.amazon.com/Heist-Story-Ellen-Simpson-ebook/dp/B078RSDQ44/ref=sr_1_1?ie=UTF8&qid=1515078736&sr=8-1&keywords=a+heist+story+ellen+simpson)
 
 *Summary:*
 
@@ -35,9 +35,11 @@ Everyone has their own agenda in this intricate suspense. As the double-crosses 
 - "‘A Heist Story’ is a well written, complicated story full of interesting characters. It kept me guessing and I never knew quite what to expect."
 - "Full of spellbinding plot twists and will appeal not only to suspenseful aficionada but to readers who also will appreciate a strong female leading cast with a compelling though sometimes provocative roller coaster... A page-turner ... from an immensely talented writer...highly recommended"
 
-​**The Light of the World** - *2015*
+- - -
 
-[Preview](https://www.wattpad.com/story/53863421-the-light-of-the-world-preview-lgbt-teen-fiction) | [Ylva Website](https://www.ylva-publishing.com/product/the-light-of-the-world-by-ellen-simpson/) | [Goodreads](https://www.goodreads.com/book/show/26150490-the-light-of-the-world) | [Amazon](https://www.amazon.com/Light-World-Ellen-Simpson/dp/3955335070/ref=sr_1_1?ie=UTF8&qid=1448300919&sr=8-1&keywords=Ellen+Simpson+The+light+of+the+world)
+**​The Light of the World** - *2015*
+
+[Preview](https://www.wattpad.com/story/53863421-the-light-of-the-world-preview-lgbt-teen-fiction) - [Ylva Website](https://www.ylva-publishing.com/product/the-light-of-the-world-by-ellen-simpson/) - [Goodreads](https://www.goodreads.com/book/show/26150490-the-light-of-the-world) - [Amazon](https://www.amazon.com/Light-World-Ellen-Simpson/dp/3955335070/ref=sr_1_1?ie=UTF8&qid=1448300919&sr=8-1&keywords=Ellen+Simpson+The+light+of+the+world)
 
 *Summary:*
 
@@ -50,9 +52,11 @@ Eva starts to investigate the puzzle her grandmother left behind. With the help 
 - "The Light of the World" is a treasure indeed."
 - "From the vast and numerous descriptors that utterly draw you in, to the accurate depiction of a girl surviving depression [...], this one definitely deserves a 10/10 rating."
 
+- - -
+
 **The Return** - *2014*
 
-[Ylva Website](https://www.ylva-publishing.com/product/the-return-by-ana-matics/) | [Goodreads](https://www.goodreads.com/book/show/23201323-the-return) | [Amazon](https://www.amazon.com/The-Return-Ana-Matics-ebook/dp/B00PHRNHPQ)
+[Ylva Website](https://www.ylva-publishing.com/product/the-return-by-ana-matics/) - [Goodreads](https://www.goodreads.com/book/show/23201323-the-return) - [Amazon](https://www.amazon.com/The-Return-Ana-Matics-ebook/dp/B00PHRNHPQ)
 
 *Summary:*
 

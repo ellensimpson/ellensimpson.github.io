@@ -29,7 +29,9 @@ In my teaching practice, I emphasize an interdisciplinary approach focused on cr
 ##### **Syracuse University**
 
 *Spring 2021* - **Field and Trace Methods** (PhD/Masters Course) - [Example Syllabus](/assets/pdf/trace_methods.pdf)
+
 Faculty Advisor: Carsten Osterlund
 
 *Fall 2020* -  **Digital Platforms** (Undergraduate Course), *with Dipto Das* - [Example Syllabus](/assets/pdf/digital_platforms.pdf)
+
 Faculty Advisor: John Jordan

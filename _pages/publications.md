@@ -10,15 +10,17 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 #### Journal Articles (peer reviewed, archival)
-01. Dym, B., **Simpson, E.**, Fong, O., and striegl, l. (2023). The Internet is Not Forever: Challenges and Sustainability in Video Game Archiving and Preservation. To Appear In: The Journal of Electronic Gaming and Esports.
+01.  Alper, M., Rauchberg, J., **Simpson, E.,** Guberman, J., Feinberg, S. (2023). TikTok as Algorithmically Mediated Biographical Illumination: Autism, Self-Discovery, and Platformed Diagnosis on #autisktok. To Appear in: New Media and Society. [read a preprint here](/assets/pdf/NMS_TikTokAutismDiagnosis_PrePrint.pdf)
 
-02. **Simpson, E.**, Dalal, S., and Semaan, B. (2023). "Hey, Can You Add Captions?": The Critical Infrastructuring Practices of Neurodiverse People on TikTok. Proc. ACM Hum.-Comput. Interact. 7, CSCW1, Article 57 (APR 2023). https://doi.org/10.1145/3579490 [read a preprint here](/assets/pdf/CSCW23Captions.pdf)
+02. Dym, B., **Simpson, E.**, Fong, O., and striegl, l. (2023). The Internet is Not Forever: Challenges and Sustainability in Video Game Archiving and Preservation. To Appear In: The Journal of Electronic Gaming and Esports.
 
-03. Wu, Q., Williams, L.K., **Simpson, E.**, and Semaan, B. (2022) Conversations About Crime: Re-enforcing and Fighting Against Platform Racism on Reddit. Proc. ACM Hum.-Comput. Interact. 6, CSCW1, Article 54 (April 2022), 38 pages. https://doi.org/10.1145/3512901
+03. **Simpson, E.**, Dalal, S., and Semaan, B. (2023). "Hey, Can You Add Captions?": The Critical Infrastructuring Practices of Neurodiverse People on TikTok. Proc. ACM Hum.-Comput. Interact. 7, CSCW1, Article 57 (APR 2023). https://doi.org/10.1145/3579490 [read a preprint here](/assets/pdf/CSCW23Captions.pdf)
 
-04. Yoon, N., Hemsley, J., Smith, A., **Simpson, E.**, & Eakins, J. (2022). Super‐amplifiers! The role of Twitter extended party networks in political elections. Policy & Internet. https://doi.org/10.1002/poi3.295
+04. Wu, Q., Williams, L.K., **Simpson, E.**, and Semaan, B. (2022) Conversations About Crime: Re-enforcing and Fighting Against Platform Racism on Reddit. Proc. ACM Hum.-Comput. Interact. 6, CSCW1, Article 54 (April 2022), 38 pages. https://doi.org/10.1145/3512901
 
-05. **Simpson, E.**, Hamann, A., Semaan, B. (2022). How to Tame “Your” Algorithm: LGBTQ+ Users’ Domestication of TikTok. Proceedings of the ACM Conference on Human Computer Interaction. Vol. 6, GROUP, Article 22 (January 2022), 27 pages. https://doi.org/10.1145/3492841 [read a preprint here](/assets/pdf/GroupTikTokDomestication.pdf)
+05. Yoon, N., Hemsley, J., Smith, A., **Simpson, E.**, & Eakins, J. (2022). Super‐amplifiers! The role of Twitter extended party networks in political elections. Policy & Internet. https://doi.org/10.1002/poi3.295
+
+06. **Simpson, E.**, Hamann, A., Semaan, B. (2022). How to Tame “Your” Algorithm: LGBTQ+ Users’ Domestication of TikTok. Proceedings of the ACM Conference on Human Computer Interaction. Vol. 6, GROUP, Article 22 (January 2022), 27 pages. https://doi.org/10.1145/3492841 [read a preprint here](/assets/pdf/GroupTikTokDomestication.pdf)
 *best paper, GROUP '23*'
 
 - - -
@@ -28,11 +30,6 @@ nav_order: 2
 
 02. **Simpson, E**. and Semaan, B. (2021). For You, or For "You"?: Everyday LGBTQ+ Encounters with TikTok. Proceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing. 4, CSCW3, Article 252 (January 2021), 34 pages. https://doi.org/10.1145/3432951 [read a preprint here](/assets/pdf/CSCW20TikTok.pdf)
 
-
-- - -
-
-#### Book Chapters (peer reviewed, archival)
-01. Gray, L., **Simpson,** E., Yeon, J. “Information Community Identity: Examining the Photographic Legacy of Henry Booth Settlement House in Chicago, 1900-1965.” In Knowlton, Steven A., Pozzi, E., Sly, J.S., and Spunaugle, eds. Libraries without Boarders.  *(to be published Fall 2023)*
 
 - - -
 

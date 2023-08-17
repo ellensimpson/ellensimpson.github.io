@@ -21,6 +21,7 @@ nav_order: 2
 05. Yoon, N., Hemsley, J., Smith, A., **Simpson, E.**, & Eakins, J. (2022). Super‐amplifiers! The role of Twitter extended party networks in political elections. Policy & Internet. https://doi.org/10.1002/poi3.295
 
 06. **Simpson, E.**, Hamann, A., Semaan, B. (2022). How to Tame “Your” Algorithm: LGBTQ+ Users’ Domestication of TikTok. Proceedings of the ACM Conference on Human Computer Interaction. Vol. 6, GROUP, Article 22 (January 2022), 27 pages. https://doi.org/10.1145/3492841 [read a preprint here](/assets/pdf/GroupTikTokDomestication.pdf)
+
 *best paper, GROUP '23*'
 
 - - -

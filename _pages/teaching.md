@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 4
 ---
@@ -25,8 +25,27 @@ In my teaching practice, I emphasize an interdisciplinary approach focused on cr
 
 - - -
 
+#### <u><b>Courses TA'ed and Graded</b></u>
+##### **University of Colorado, Boulder**
+
+*Fall 2023* - **Introduction to Information Science: Understanding the World Through Data** - Studio Instructor, Lead TA
+
+*Fall 2023* - **Designing Interactions** - Studio Instructor
+
+*Fall 2022* - **Introduction to Information Science: Understanding the World Through Data** - Studio Instructor, Lead TA
+
+*Fall 2021* -  **Introduction to Information Science: Understanding the World Through Data** - Studio Instructor
+
+*Fall 2022* - **Digital Identity** - Grader
+
+*Spring 2022* - **User-Centered Design** - Grader
+
+- - -
+
 #### <b><u>Courses Developed</u></b>
 ##### **Syracuse University**
+
+*Course development was a part of the required Syracuse University Practicum Course (IST840), classes developed by PhD students and subsequently taught by the faculty advisor who supervised the project.*
 
 *Spring 2021* - **Field and Trace Methods** (PhD/Masters Course) - [Example Syllabus](/assets/pdf/trace_methods.pdf)
 

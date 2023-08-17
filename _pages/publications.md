@@ -61,10 +61,15 @@ nav_order: 2
 - - -
 
 #### Invited Talks and Conference Presentations
-01. Alper, M., Rauchberg, J., **Simpson, E.**, Guberman, J., Feinberg, S. (2023). “I’m My Own Target Audience”: Platform Affordances and Neurodivergent Young People’s Cultural Production on #Autisktok. TikTok Cultures Research Network Research Symposium on TikTok and Children. Online, May 8, 2023.
 
-02. Nutt, R. Gray, L., **Simpson, E.**, Yeon, J. (2022). Visualizing Collective Voices Online: Narrative, literacy, and African American Information Communities in a Photographic Archive 54th Annual Conference of the International Visual Literacy Association. Jyväskylä, Finland, 10-12 August 2022.
+01. Alper, M., Rauchberg, J., **Simpson, E.**, Guberman, J., Feinberg, S. (2023). TikTok as Algorithmic Biographical Illumination: Autism, Self-Discovery, and Platformed Diagnosis on #autisktok. To be presented at the 109th National Communication Association Annual Convention – Human Communication and Technology Division. National Harbor, Maryland. November 16-19, 2023.
 
-03. Gray, L., **Simpson, E.**, and Yeon, J. (2021). Information Community Identity: Examining the Photographic Legacy of Henry Booth Settlement House in Chicago, 1900-1965. Library History Seminar XI, Spring 2021, Baton Rouge, LA.
+02. Rauchberg, J.S., Alper, M., **Simpson, E.**, Guberman, J., and Feinberg, S. (2023). “Here to have fun and flight ableism”: #Autisktok User Bios as NeuroQueer Micro-Activist Platform Affordances. To be presented at the 2023 Association of Internet Researchers (AoIR) Conference. Philadelphia, PA.  October 18-21, 2023.
 
-04. Gray, L., **Simpson, E.**, and Yeon, J. (2020). (Re)Constructing an African American Communal Space: An Information Analysis of a Chicago Public Housing Archive, 1955-1970. 2020 SIG AH Virtual Symposium: Data Curation and Visualization in the Arts & Humanities.
+03. Alper, M., Rauchberg, J., **Simpson, E.**, Guberman, J., Feinberg, S. (2023). “I’m My Own Target Audience”: Platform Affordances and Neurodivergent Young People’s Cultural Production on #Autisktok. TikTok Cultures Research Network Research Symposium on TikTok and Children. Online, May 8, 2023.
+
+04. Nutt, R. Gray, L., **Simpson, E.**, Yeon, J. (2022). Visualizing Collective Voices Online: Narrative, literacy, and African American Information Communities in a Photographic Archive 54th Annual Conference of the International Visual Literacy Association. Jyväskylä, Finland, 10-12 August 2022.
+
+05. Gray, L., **Simpson, E.**, and Yeon, J. (2021). Information Community Identity: Examining the Photographic Legacy of Henry Booth Settlement House in Chicago, 1900-1965. Library History Seminar XI, Spring 2021, Baton Rouge, LA.
+
+06. Gray, L., **Simpson, E.**, and Yeon, J. (2020). (Re)Constructing an African American Communal Space: An Information Analysis of a Chicago Public Housing Archive, 1955-1970. 2020 SIG AH Virtual Symposium: Data Curation and Visualization in the Arts & Humanities.

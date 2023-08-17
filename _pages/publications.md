@@ -12,7 +12,7 @@ nav_order: 2
 #### Journal Articles (peer reviewed, archival)
 01.  Alper, M., Rauchberg, J., **Simpson, E.,** Guberman, J., Feinberg, S. (2023). TikTok as Algorithmically Mediated Biographical Illumination: Autism, Self-Discovery, and Platformed Diagnosis on #autisktok. To Appear in: New Media and Society. [read a preprint here](/assets/pdf/NMS_TikTokAutismDiagnosis_PrePrint.pdf)
 
-02. Dym, B., **Simpson, E.**, Fong, O., and striegl, l. (2023). The Internet is Not Forever: Challenges and Sustainability in Video Game Archiving and Preservation. To Appear In: The Journal of Electronic Gaming and Esports.
+02. Dym, B., **Simpson, E.**, Fong, O., and striegl, l. (2023). The Internet is Not Forever: Challenges and Sustainability in Video Game Archiving and Preservation. To Appear In: The Journal of Electronic Gaming and Esports 1(1). https://doi.org/10.1123/jege.2022-0041
 
 03. **Simpson, E.**, Dalal, S., and Semaan, B. (2023). "Hey, Can You Add Captions?": The Critical Infrastructuring Practices of Neurodiverse People on TikTok. Proc. ACM Hum.-Comput. Interact. 7, CSCW1, Article 57 (APR 2023). https://doi.org/10.1145/3579490 [read a preprint here](/assets/pdf/CSCW23Captions.pdf)
 

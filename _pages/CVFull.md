@@ -18,4 +18,4 @@ If you're interested in just my publications, you can find them [here](/publicat
 
 Information about my current projects, as well as which papers align with each project, are listed on my [projects](/projects) page.
 
-To read a full draft of my research statement, please click [*here - document under construction*]
+To read a full draft of my research statement, please click [here](/pdf/Research_Statement.pdf).

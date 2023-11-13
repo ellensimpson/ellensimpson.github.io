@@ -22,4 +22,4 @@ I have published at top-tier peer reviewed computing venues, including first aut
 
 Information about my previous projects, including my books and screen writing, are listed on my [projects](/projects) page.
 
-To read a full draft of my research statement, please click [here](/pdf/Research_Statement.pdf).
+To read a full draft of my research statement, please click [here](/assets/pdf/Research_Statement.pdf).

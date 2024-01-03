@@ -24,4 +24,4 @@ Information about my previous projects, including my books and screen writing, a
 
 To read a full draft of my research statement, please click [here](/assets/pdf/Research_Statement.pdf).
 
-To learn more about my teaching and commitment to being an educator, please visit my ]teaching](/teaching) page.
+To learn more about my teaching and commitment to being an educator, please visit my [teaching](/teaching) page.

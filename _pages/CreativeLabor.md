@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Creative Labor
+title: creative labor
 permalink: /creativelabor/
-description: Creative Labor, Briefly Explained
+#description: Creative Labor, Briefly Explained
 nav: true
 nav_order: 5
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
@@ -11,7 +11,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-#### Creativity and Creative Labor, A Brief Explainer
+#### <center><b>Creativity and Creative Labor, A Brief Explainer<b></center>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

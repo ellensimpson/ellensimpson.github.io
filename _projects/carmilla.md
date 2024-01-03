@@ -11,13 +11,13 @@ Carmilla is a love story told for queer women and developed by queer women. It s
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/CarmS1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CarmS1.jpg" title="Carmilla Season 1 Poster" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/CarmS2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CarmS2.jpg" title="Carmilla Season 2 Poster" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/CarmS3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CarmS3.jpg" title="Carmilla Season 3 Poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

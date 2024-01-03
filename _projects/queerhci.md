@@ -9,8 +9,10 @@ category:
 
 Work on representation on queer people, queer identities, and queer theory in HCI and social computing more broadly.
 
+
+
 ## Papers in This Project
-01.  Taylor, J. **Simpson, E.**, Tran, A., Wang, K., and Zhu, H. Compiling a Queer Archive: A Chronological Literature Review of Queerness in HCI. (2022). *(in Submission)*
+01.  Taylor, J. **Simpson, E.**, Tran, A., Brubaker, J., Fox, S., and Zhu, H. Cruising the ACM on the DL: A Literature Review of LGBTQ+ People in HCI. (2023). *(in submission)*
 
 02. **Simpson, E.**, Hamann, A., Semaan, B. (2022). How to Tame “Your” Algorithm: LGBTQ+ Users’ Domestication of TikTok. Proceedings of the ACM Conference on Human Computer Interaction. Vol. 6, GROUP, Article 22 (January 2022), 27 pages. https://doi.org/10.1145/3492841 - [read a preprint here](/assets/pdf/GroupTikTokDomestication.pdf)
 

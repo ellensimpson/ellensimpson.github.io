@@ -22,16 +22,18 @@ nav_order: 2
 
 06. **Simpson, E.**, Hamann, A., Semaan, B. (2022). How to Tame “Your” Algorithm: LGBTQ+ Users’ Domestication of TikTok. Proceedings of the ACM Conference on Human Computer Interaction. Vol. 6, GROUP, Article 22 (January 2022), 27 pages. https://doi.org/10.1145/3492841 [read a preprint here](/assets/pdf/GroupTikTokDomestication.pdf)
 
-*best paper, GROUP '23*'
+*best paper, GROUP '23*
 
 - - -
 
 #### Conference Papers (peer reviewed, archival)
-01. **Simpson, E.**, and Semaan, B. (2023). Rethinking Creative Labor: A Sociotechnical Examination of Creativity & Creative Work on TikTok. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 16 pages. https://doi.org/10.1145/3544548.35 [read a preprint here](/assets/pdf/rethinkingcreativelabor.pdf)
+01. Taylor, J*. **Simpson, E.***, Tran, A.*, Brubaker, J., Fox, S., and Zhu, H. Cruising the ACM on the DL: A Literature Review of LGBTQ+ People in HCI. (2024). In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI ’24), Honolulu, HI, USA. ACM, New York, NY, USA. https://doi.org/10.1145/3613904.3642494 [read a preprint here](/assets/pdf/QueerHCISLR.pdf)
 
-02. **Simpson, E**. and Semaan, B. (2021). For You, or For "You"?: Everyday LGBTQ+ Encounters with TikTok. Proceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing. 4, CSCW3, Article 252 (January 2021), 34 pages. https://doi.org/10.1145/3432951 [read a preprint here](/assets/pdf/CSCW20TikTok.pdf)
+02. **Simpson, E.**, and Semaan, B. (2023). Rethinking Creative Labor: A Sociotechnical Examination of Creativity & Creative Work on TikTok. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 16 pages. https://doi.org/10.1145/3544548.35 [read a preprint here](/assets/pdf/rethinkingcreativelabor.pdf)
 
+03. **Simpson, E**. and Semaan, B. (2021). For You, or For "You"?: Everyday LGBTQ+ Encounters with TikTok. Proceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing. 4, CSCW3, Article 252 (January 2021), 34 pages. https://doi.org/10.1145/3432951 [read a preprint here](/assets/pdf/CSCW20TikTok.pdf)
 
+* equal contribution
 - - -
 
 #### Special Interest Groups and Workshops (lightly peer reviewed, archival)

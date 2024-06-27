@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate  at the University of Colorado at Boulder in Information Science. Formerly, I was at Syracuse University's iSchool, but moved when my advisor took a position at the University of Colorado.
+I am a recent PhD graduate from the University of Colorado at Boulder in Information Science. I currently am a Post Doctoral researcher at the University of Virginia's School of Data Science, working with Dr. Mona Sloane.
 
 My research investigates the impacts of sociotechnical systems on people’s sense of self and the rhythms and routines of their everyday lives. My research focuses on two interconnected areas of sociotechnical research, particularly in the field of social computing: (1) the everyday work and routines of people, and (2) how people draw on sociotechnical systems in these daily interactions to inform how they engage with their identities, communities, and the technical systems upon which they work. Through this work, I develop community-driven solutions to improve experiences for individual users who work by, on, and through these sociotechnical systems. I explore how people work to improve, adapt, and transform sociotechnical systems for themselves and others in ways that push back against the normative logics embedded into their design and functionality.
 

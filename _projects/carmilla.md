@@ -3,7 +3,7 @@ layout: page
 title: Carmilla - The Series
 description: a single-camera web series adaption of Le Fanu's novella, Carmilla.
 img: assets/img/7.jpg
-importance: 3
+importance: 4
 category:
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Books
 description: I write a lot casually, but haven't in a long time. These are the books I've currently written, they are fictional, and feature LGBTQ+ characters and storylines.
 img: assets/img/thereturn.jpg
-importance: 4
+importance: 5
 category:
 ---
 

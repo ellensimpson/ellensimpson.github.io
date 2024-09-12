@@ -3,7 +3,7 @@ layout: page
 title: Queer HCI
 description: Examining the Experiences of LGBTQ+ People in HCI, and in Social Computing More Broadly
 img: assets/img/3.jpg
-importance: 2
+importance: 3
 category:
 ---
 

@@ -12,7 +12,7 @@ category:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/HRTech1.jpg" title="I literally just googled HR Tech and this came up" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/hrtech1.jpg" title="I literally just googled HR Tech and this came up" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

@@ -7,24 +7,28 @@ importance: 6
 category:
 ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sundew.jpg" title="Sundew Tours Logo" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-**Logo Design** - *2024* - Sundew Tours is a local tour company in Ketchikan, Alaska.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tflogo.jpg" title="Sundew Tours Logo" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tfbusinesscards.jpg" title="Sundew Tours Logo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/tfmc design.jpg" title="Tender Flame Metalcraft Logo Redesign" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-**Logo Redesign and Business Card Design** - *2024* - Tenderflame Metalcraft is a metal art and welding company based in Ketchikan Alaska.
+**Logo Redesign, Business Cards, and About.Me Design** - *2024* - Tenderflame Metalcrat is a metal art project based in Ketchikan Alaska
+      **Design Project**
+        * Digitize Original Business Logo
+        * Design Business cards
+        * Design [About.me](https://about.me/angie.goffredi)
+        * Design Promotional Materials
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/tfmc art showcase.jpg" title="Art Showcase" class="img-fluid rounded z-depth-1" width="50%"%}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/tfmc signage showcase.jpg" title="Signage Showcase" class="img-fluid rounded z-depth-1" width="50%"%}
+    </div>
+</div>

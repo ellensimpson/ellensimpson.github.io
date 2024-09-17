@@ -43,7 +43,10 @@ Tenderflame Metalcraft is a metal art project based in Ketchikan Alaska
     </div>
 </div></center>
 
-**Logo Design** - *2024* - Sundew Tours is a boutique van tour company in  Ketchikan Alaska
+**Logo Design** - *2024*
+
+Sundew Tours is a boutique van tour company in  Ketchikan Alaska
+
     **Design Project**
       * Original Logo Artwork
       * Logo Design

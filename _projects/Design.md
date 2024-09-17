@@ -26,10 +26,10 @@ Tenderflame Metalcraft is a metal art project based in Ketchikan Alaska
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tfmc art showcase.jpg" title="Art Showcase" class="img-fluid rounded z-depth-1" width="40%"%}
+        {% include figure.html path="assets/img/tfmc art showcase.jpg" title="Art Showcase" class="img-fluid rounded z-depth-1" width="75%"%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tfmc signage showcase.jpg" title="Signage Showcase" class="img-fluid rounded z-depth-1" width="40%"%}
+        {% include figure.html path="assets/img/tfmc signage showcase.jpg" title="Signage Showcase" class="img-fluid rounded z-depth-1" width="75%"%}
     </div>
 </div>
 

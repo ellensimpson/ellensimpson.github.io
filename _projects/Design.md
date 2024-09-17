@@ -20,7 +20,7 @@ Tenderflame Metalcraft is a metal art project based in Ketchikan Alaska
       **Design Project**
         * Digitize Original Business Logo
         * Design Business cards
-        * Design [About.me](https://about.me/angie.goffredi)
+        * Design About.me
         * Design Promotional Materials
 
 <div class="row">

@@ -3,13 +3,15 @@ layout: page
 permalink: /publications/
 title: publications
 description: academic publications
-years: [2023, 2022, 2021, 2020, 2018]
+years: [2024, 2023, 2022, 2021, 2020, 2018]
 nav: true
 nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
 #### Journal Articles (peer reviewed, archival)
+00. *In Submission: New Media and Society* - Alper, M., Rodgers, R., Rauchberg, J., **Simpson, E.**, and Harrison, K.  (2024). “actually an ED and not just a quirky aspect of autism”: TikTok as Forum and Mediator of Autistic Food Issues and Eating Disorders
+
 01.  Alper, M., Rauchberg, J., **Simpson, E.,** Guberman, J., Feinberg, S. (2023). TikTok as Algorithmically Mediated Biographical Illumination: Autism, Self-Discovery, and Platformed Diagnosis on #autisktok. To Appear in: New Media and Society. [read a preprint here](/assets/pdf/NMS_TikTokAutismDiagnosis_PrePrint.pdf)
 
 02. Dym, B., **Simpson, E.**, Fong, O., and striegl, l. (2023). The Internet is Not Forever: Challenges and Sustainability in Video Game Archiving and Preservation. To Appear In: The Journal of Electronic Gaming and Esports 1(1). https://doi.org/10.1123/jege.2022-0041
@@ -27,6 +29,8 @@ nav_order: 2
 - - -
 
 #### Conference Papers (peer reviewed, archival)
+00. *In Submission: CHI* - **Simpson, E.** and Semaan, B. (2024). Infrastructures for Inspiration: The Routine Construction and Maintenance of Inspiration on the Creative Internet.
+
 01. Taylor, J*. **Simpson, E.***, Tran, A.*, Brubaker, J., Fox, S., and Zhu, H. Cruising the ACM on the DL: A Literature Review of LGBTQ+ People in HCI. (2024). In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI ’24), Honolulu, HI, USA. ACM, New York, NY, USA. https://doi.org/10.1145/3613904.3642494 [read a preprint here](/assets/pdf/QueerHCISLR.pdf)
 
 02. **Simpson, E.**, and Semaan, B. (2023). Rethinking Creative Labor: A Sociotechnical Examination of Creativity & Creative Work on TikTok. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 16 pages. https://doi.org/10.1145/3544548.35 [read a preprint here](/assets/pdf/rethinkingcreativelabor.pdf)

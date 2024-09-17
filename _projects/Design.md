@@ -15,6 +15,7 @@ category:
 </div></center>
 
 **Logo Redesign, Business Cards, and About.Me Design** - *2024*
+
 Tenderflame Metalcraft is a metal art project based in Ketchikan Alaska
 
       **Design Project**

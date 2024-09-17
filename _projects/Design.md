@@ -10,7 +10,7 @@ category:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tfmc design.jpg" title="Tender Flame Metalcraft Logo Redesign" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/tfmc design.jpg" title="Tender Flame Metalcraft Logo Redesign" class="img-fluid rounded z-depth-1" width="60%" %}
     </div>
 </div>
 
@@ -38,7 +38,7 @@ category:
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sundew.jpg" title="Sundew Tours Logo Design" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sundew.jpg" title="Sundew Tours Logo Design" class="img-fluid rounded z-depth-1" width="60%" %}
     </div>
 </div>
 

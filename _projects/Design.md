@@ -2,7 +2,7 @@
 layout: page
 title: Design Portfolio
 description: Design Portfolio
-img: assets/img/sundew.jpg
+img: assets/img/sundew_full.jpg
 importance: 6
 category:
 ---
@@ -25,13 +25,10 @@ Tenderflame Metalcraft is a metal art project based in Ketchikan Alaska
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tfmc art showcase.jpg" title="Art Showcase" class="img-fluid rounded z-depth-1" width="30%"%}
+        {% include figure.html path="assets/img/tfmc art showcase.jpg" title="Art Showcase" class="img-fluid rounded z-depth-1" width="40%"%}
     </div>
-</div>
-
-<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tfmc signage showcase.jpg" title="Signage Showcase" class="img-fluid rounded z-depth-1" width="30%"%}
+        {% include figure.html path="assets/img/tfmc signage showcase.jpg" title="Signage Showcase" class="img-fluid rounded z-depth-1" width="40%"%}
     </div>
 </div>
 

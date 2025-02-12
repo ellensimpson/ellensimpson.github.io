@@ -10,7 +10,9 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 #### Journal Articles (peer reviewed, archival)
-00. *In Submission: New Media and Society* - Alper, M., Rodgers, R., Rauchberg, J., **Simpson, E.**, and Harrison, K.  (2024). “actually an ED and not just a quirky aspect of autism”: TikTok as Forum and Mediator of Autistic Food Issues and Eating Disorders
+00. *In Submission: CSCW* - **Simpson, E.**, and Semaan, B. (2025). The Eshittification of the Creative Internet.
+
+0. *In Submission: New Media and Society* - Alper, M., Rodgers, R., Rauchberg, J., **Simpson, E.**, and Harrison, K.  (2024). “actually an ED and not just a quirky aspect of autism”: TikTok as Forum and Mediator of Autistic Food Issues and Eating Disorders
 
 01.  Alper, M., Rauchberg, J., **Simpson, E.,** Guberman, J., Feinberg, S. (2023). TikTok as Algorithmically Mediated Biographical Illumination: Autism, Self-Discovery, and Platformed Diagnosis on #autisktok. To Appear in: New Media and Society. [read a preprint here](/assets/pdf/NMS_TikTokAutismDiagnosis_PrePrint.pdf)
 
@@ -29,13 +31,13 @@ nav_order: 2
 - - -
 
 #### Conference Papers (peer reviewed, archival)
-00. *In Submission: CHI* - **Simpson, E.** and Semaan, B. (2024). Infrastructures for Inspiration: The Routine Construction and Maintenance of Inspiration on the Creative Internet.
+01. **Simpson, E.** and Semaan, B. (2025) Infrastructures for Inspiration: The Routine Construction of Creative Identity and Inspiration. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, Article 111, 15 pages. https: //doi.org/10.1145/3706598.3713105 [read a preprint here](/assets/pdf/InfraforInspo.pdf)
 
-01. Taylor, J*. **Simpson, E.***, Tran, A.*, Brubaker, J., Fox, S., and Zhu, H. Cruising the ACM on the DL: A Literature Review of LGBTQ+ People in HCI. (2024). In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI ’24), Honolulu, HI, USA. ACM, New York, NY, USA. https://doi.org/10.1145/3613904.3642494 [read a preprint here](/assets/pdf/QueerHCISLR.pdf) [equal contributions]
+02. Taylor, J*. **Simpson, E.***, Tran, A.*, Brubaker, J., Fox, S., and Zhu, H. Cruising the ACM on the DL: A Literature Review of LGBTQ+ People in HCI. (2024). In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI ’24), Honolulu, HI, USA. ACM, New York, NY, USA. https://doi.org/10.1145/3613904.3642494 [read a preprint here](/assets/pdf/QueerHCISLR.pdf) [equal contributions]
 
-02. **Simpson, E.**, and Semaan, B. (2023). Rethinking Creative Labor: A Sociotechnical Examination of Creativity & Creative Work on TikTok. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 16 pages. https://doi.org/10.1145/3544548.35 [read a preprint here](/assets/pdf/rethinkingcreativelabor.pdf)
+03. **Simpson, E.**, and Semaan, B. (2023). Rethinking Creative Labor: A Sociotechnical Examination of Creativity & Creative Work on TikTok. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg, Germany. ACM, New York, NY, USA, 16 pages. https://doi.org/10.1145/3544548.35 [read a preprint here](/assets/pdf/rethinkingcreativelabor.pdf)
 
-03. **Simpson, E**. and Semaan, B. (2021). For You, or For "You"?: Everyday LGBTQ+ Encounters with TikTok. Proceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing. 4, CSCW3, Article 252 (January 2021), 34 pages. https://doi.org/10.1145/3432951 [read a preprint here](/assets/pdf/CSCW20TikTok.pdf)
+04. **Simpson, E**. and Semaan, B. (2021). For You, or For "You"?: Everyday LGBTQ+ Encounters with TikTok. Proceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing. 4, CSCW3, Article 252 (January 2021), 34 pages. https://doi.org/10.1145/3432951 [read a preprint here](/assets/pdf/CSCW20TikTok.pdf)
 
 
 - - -

@@ -10,7 +10,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 #### Journal Articles (peer reviewed, archival)
-00. *In Submission: CSCW* - **Simpson, E.**, and Semaan, B. (2025). The Eshittification of the Creative Internet. *preprint coming soon*
+00. *In Submission: CSCW* - **Simpson, E.**, and Semaan, B. (2025). The Eshittification of the Creative Internet.
 
 0. *In Submission: New Media and Society* - Alper, M., Rodgers, R., Rauchberg, J., **Simpson, E.**, and Harrison, K.  (2024). “actually an ED and not just a quirky aspect of autism”: TikTok as Forum and Mediator of Autistic Food Issues and Eating Disorders
 
@@ -31,7 +31,7 @@ nav_order: 2
 - - -
 
 #### Conference Papers (peer reviewed, archival)
-01. **Simpson, E.** and Semaan, B. (2025) Infrastructures for Inspiration: The Routine Construction of Creative Identity and Inspiration. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, Article 111, 15 pages. https: //doi.org/10.1145/3706598.3713105 [read a preprint here](/assets/pdf/InfraforInspo1.pdf)
+01. **Simpson, E.** and Semaan, B. (2025) Infrastructures for Inspiration: The Routine Construction of Creative Identity and Inspiration. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, Article 111, 15 pages. https: //doi.org/10.1145/3706598.3713105 [read a preprint here](/assets/pdf/InfraforInspo.pdf)
 
 02. Taylor, J*. **Simpson, E.***, Tran, A.*, Brubaker, J., Fox, S., and Zhu, H. Cruising the ACM on the DL: A Literature Review of LGBTQ+ People in HCI. (2024). In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI ’24), Honolulu, HI, USA. ACM, New York, NY, USA. https://doi.org/10.1145/3613904.3642494 [read a preprint here](/assets/pdf/QueerHCISLR.pdf) [equal contributions]
 

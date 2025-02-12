@@ -36,6 +36,6 @@ In my teaching practice, I emphasize an interdisciplinary approach focused on cr
 
 - Faculty Advisor: Dr. Carsten Osterlund
 
-*Fall 2020* -  **Digital Platforms** (Undergraduate Course), *with Dipto Das* - [Example Syllabus](/assets/pdf/digitalplatforms.pdf)
+*Fall 2020* -  **Digital Platforms** (Undergraduate Course), *with Dipto Das* - [Example Syllabus](/assets/pdf/digitalplatforms.pdf) *note that this syllabus is in draft form*
 
 - Faculty Advisor: Dr. John Jordan

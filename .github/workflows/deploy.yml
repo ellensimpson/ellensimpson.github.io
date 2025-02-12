@@ -20,8 +20,7 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2.2'
-        bundler-cache: true
-  - name: Enable bundler cache
+    - name: Enable bundler cache
       uses: actions/cache@v3
       with:
         path: vendor/bundle
@@ -49,4 +48,4 @@ jobs:
     - name: Deploy website
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }}
-                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
+                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 

@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-**Please find an up-to-date copy of my full CV [here](/assets/pdf/CV.pdf).**
+**Please find an up-to-date copy of my full CV [here](/assets/pdf/CVfeb2025.pdf).**
 
 If you're interested in just my publications, you can find them [here](/publications/).
 

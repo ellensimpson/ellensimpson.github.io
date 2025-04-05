@@ -10,21 +10,23 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 #### Journal Articles (peer reviewed, archival)
-00. *In Submission: CSCW* - **Simpson, E.**, and Semaan, B. (2025). The Eshittification of the Creative Internet.
+
 
 0. *In Submission: New Media and Society* - Alper, M., Rodgers, R., Rauchberg, J., **Simpson, E.**, and Harrison, K.  (2024). “actually an ED and not just a quirky aspect of autism”: TikTok as Forum and Mediator of Autistic Food Issues and Eating Disorders
 
-01.  Alper, M., Rauchberg, J., **Simpson, E.,** Guberman, J., Feinberg, S. (2023). TikTok as Algorithmically Mediated Biographical Illumination: Autism, Self-Discovery, and Platformed Diagnosis on #autisktok. To Appear in: New Media and Society. [read a preprint here](/assets/pdf/NMS_TikTokAutismDiagnosis_PrePrint.pdf)
+01. **Simpson, E.**, and Semaan, B. (2025). The Eshittification of the Creative Internet. To Appear in: Proc. ACM Hum.-Comput. Interact. CSCW 2025. [read a preprint here](/assets/pdf/CSCW25Enshittification.pdf)
 
-02. Dym, B., **Simpson, E.**, Fong, O., and striegl, l. (2023). The Internet is Not Forever: Challenges and Sustainability in Video Game Archiving and Preservation. To Appear In: The Journal of Electronic Gaming and Esports 1(1). https://doi.org/10.1123/jege.2022-0041
+02.  Alper, M., Rauchberg, J., **Simpson, E.,** Guberman, J., Feinberg, S. (2023). TikTok as Algorithmically Mediated Biographical Illumination: Autism, Self-Discovery, and Platformed Diagnosis on #autisktok. To Appear in: New Media and Society. [read a preprint here](/assets/pdf/NMS_TikTokAutismDiagnosis_PrePrint.pdf)
 
-03. **Simpson, E.**, Dalal, S., and Semaan, B. (2023). "Hey, Can You Add Captions?": The Critical Infrastructuring Practices of Neurodiverse People on TikTok. Proc. ACM Hum.-Comput. Interact. 7, CSCW1, Article 57 (APR 2023). https://doi.org/10.1145/3579490 [read a preprint here](/assets/pdf/CSCW23Captions.pdf)
+03. Dym, B., **Simpson, E.**, Fong, O., and striegl, l. (2023). The Internet is Not Forever: Challenges and Sustainability in Video Game Archiving and Preservation. To Appear In: The Journal of Electronic Gaming and Esports 1(1). https://doi.org/10.1123/jege.2022-0041
 
-04. Wu, Q., Williams, L.K., **Simpson, E.**, and Semaan, B. (2022) Conversations About Crime: Re-enforcing and Fighting Against Platform Racism on Reddit. Proc. ACM Hum.-Comput. Interact. 6, CSCW1, Article 54 (April 2022), 38 pages. https://doi.org/10.1145/3512901
+04. **Simpson, E.**, Dalal, S., and Semaan, B. (2023). "Hey, Can You Add Captions?": The Critical Infrastructuring Practices of Neurodiverse People on TikTok. Proc. ACM Hum.-Comput. Interact. 7, CSCW1, Article 57 (APR 2023). https://doi.org/10.1145/3579490 [read a preprint here](/assets/pdf/CSCW23Captions.pdf)
 
-05. Yoon, N., Hemsley, J., Smith, A., **Simpson, E.**, & Eakins, J. (2022). Super‐amplifiers! The role of Twitter extended party networks in political elections. Policy & Internet. https://doi.org/10.1002/poi3.295
+05. Wu, Q., Williams, L.K., **Simpson, E.**, and Semaan, B. (2022) Conversations About Crime: Re-enforcing and Fighting Against Platform Racism on Reddit. Proc. ACM Hum.-Comput. Interact. 6, CSCW1, Article 54 (April 2022), 38 pages. https://doi.org/10.1145/3512901
 
-06. **Simpson, E.**, Hamann, A., Semaan, B. (2022). How to Tame “Your” Algorithm: LGBTQ+ Users’ Domestication of TikTok. Proceedings of the ACM Conference on Human Computer Interaction. Vol. 6, GROUP, Article 22 (January 2022), 27 pages. https://doi.org/10.1145/3492841 [read a preprint here](/assets/pdf/GroupTikTokDomestication.pdf)
+06. Yoon, N., Hemsley, J., Smith, A., **Simpson, E.**, & Eakins, J. (2022). Super‐amplifiers! The role of Twitter extended party networks in political elections. Policy & Internet. https://doi.org/10.1002/poi3.295
+
+07. **Simpson, E.**, Hamann, A., Semaan, B. (2022). How to Tame “Your” Algorithm: LGBTQ+ Users’ Domestication of TikTok. Proceedings of the ACM Conference on Human Computer Interaction. Vol. 6, GROUP, Article 22 (January 2022), 27 pages. https://doi.org/10.1145/3492841 [read a preprint here](/assets/pdf/GroupTikTokDomestication.pdf)
 
 *best paper, GROUP '23*
 
@@ -32,6 +34,7 @@ nav_order: 2
 
 #### Conference Papers (peer reviewed, archival)
 01. **Simpson, E.** and Semaan, B. (2025) Infrastructures for Inspiration: The Routine Construction of Creative Identity and Inspiration. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, Article 111, 15 pages. https: //doi.org/10.1145/3706598.3713105 [read a preprint here](/assets/pdf/InfraforInspo.pdf)
+*honorable mention, CHI '25*
 
 02. Taylor, J*. **Simpson, E.***, Tran, A.*, Brubaker, J., Fox, S., and Zhu, H. Cruising the ACM on the DL: A Literature Review of LGBTQ+ People in HCI. (2024). In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI ’24), Honolulu, HI, USA. ACM, New York, NY, USA. https://doi.org/10.1145/3613904.3642494 [read a preprint here](/assets/pdf/QueerHCISLR.pdf) [equal contributions]
 

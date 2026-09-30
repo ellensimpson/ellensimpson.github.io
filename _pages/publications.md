@@ -12,7 +12,7 @@ nav_order: 2
 #### Journal Articles (peer reviewed, archival)
 
 
-0. *In Submission: New Media and Society* - Alper, M., Rodgers, R., Rauchberg, J., **Simpson, E.**, and Harrison, K.  (2024). “actually an ED and not just a quirky aspect of autism”: TikTok as Forum and Mediator of Autistic Food Issues and Eating Disorders
+01. Alper, M., Rodgers, R., Rauchberg, J., **Simpson, E.**, and Harrison, K.  (2024). “actually an ED and not just a quirky aspect of autism”: TikTok as Forum and Mediator of Autistic Food Issues and Eating Disorders
 
 01. **Simpson, E.**, and Semaan, B. (2025). The Eshittification of the Creative Internet. To Appear in: Proc. ACM Hum.-Comput. Interact. CSCW 2025. [read a preprint here](/assets/pdf/CSCW25Enshittification.pdf)
 
@@ -33,7 +33,9 @@ nav_order: 2
 - - -
 
 #### Conference Papers (peer reviewed, archival)
-01. **Simpson, E.** and Semaan, B. (2025) Infrastructures for Inspiration: The Routine Construction of Creative Identity and Inspiration. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, Article 111, 15 pages. https: //doi.org/10.1145/3706598.3713105 [read a preprint here](/assets/pdf/InfraforInspo.pdf)
+01. **Simpson, E.,** Ermovick, R. and Sloane, M. (2026). Human Resource Management and AI: Building A Collaborative Contextual Transparency Database. Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms and Optimization (EAAMO ’26). November 5-7, Munich, Germany. https://doi.org/10.1145/3846167.3848594 [read a preprint here](assets/pdf/HRTechDB.pdf)
+
+01. **Simpson, E.** and Semaan, B. (2025) Infrastructures for Inspiration: The Routine Construction of Creative Identity and Inspiration. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, Article 111, 15 pages. https://doi.org/10.1145/3706598.3713105 [read a preprint here](/assets/pdf/InfraforInspo.pdf)
 *honorable mention, CHI '25*
 
 02. Taylor, J*. **Simpson, E.***, Tran, A.*, Brubaker, J., Fox, S., and Zhu, H. Cruising the ACM on the DL: A Literature Review of LGBTQ+ People in HCI. (2024). In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI ’24), Honolulu, HI, USA. ACM, New York, NY, USA. https://doi.org/10.1145/3613904.3642494 [read a preprint here](/assets/pdf/QueerHCISLR.pdf) [equal contributions]
@@ -73,14 +75,26 @@ nav_order: 2
 
 #### Invited Talks and Conference Presentations
 
-01. Alper, M., Rauchberg, J., **Simpson, E.**, Guberman, J., Feinberg, S. (2023). TikTok as Algorithmic Biographical Illumination: Autism, Self-Discovery, and Platformed Diagnosis on #autisktok. To be presented at the 109th National Communication Association Annual Convention – Human Communication and Technology Division. National Harbor, Maryland. November 16-19, 2023.
+01. **Simpson, E.** and Sloane, M. (2026). Human Resource Management and AI: Building a Collaborative Contextual Transparency Database. AI in Practice Speaker Series. October 14, 2026.
 
-02. Rauchberg, J.S., Alper, M., **Simpson, E.**, Guberman, J., and Feinberg, S. (2023). “Here to have fun and flight ableism”: #Autisktok User Bios as NeuroQueer Micro-Activist Platform Affordances. To be presented at the 2023 Association of Internet Researchers (AoIR) Conference. Philadelphia, PA.  October 18-21, 2023.
+02. **Simpson, E.** (2026) Understanding Algorithms. ASK UAS Speaker Series. February 19, 2026.
 
-03. Alper, M., Rauchberg, J., **Simpson, E.**, Guberman, J., Feinberg, S. (2023). “I’m My Own Target Audience”: Platform Affordances and Neurodivergent Young People’s Cultural Production on #Autisktok. TikTok Cultures Research Network Research Symposium on TikTok and Children. Online, May 8, 2023.
+03. **Simpson, E.** (2025). Investigating Everyday Encounters with Technology. Terrific Tuesday Talk. Colorado College. March 25, 2025.
 
-04. Nutt, R. Gray, L., **Simpson, E.**, Yeon, J. (2022). Visualizing Collective Voices Online: Narrative, literacy, and African American Information Communities in a Photographic Archive 54th Annual Conference of the International Visual Literacy Association. Jyväskylä, Finland, 10-12 August 2022.
+04. Sloane, M., **Simpson, E.,** Amadi, M. (2025). AI in Recruiting and Talent Acquisition – Research in Progress. LaCross AI Institute at the UVA Darden School of Business Fellowships in AI (FAIR) Symposium. University of Virginia. January 31, 2025.
 
-05. Gray, L., **Simpson, E.**, and Yeon, J. (2021). Information Community Identity: Examining the Photographic Legacy of Henry Booth Settlement House in Chicago, 1900-1965. Library History Seminar XI, Spring 2021, Baton Rouge, LA.
+05. **Simpson, E.** (2025). Investigating Everyday Encounters with Technology. Media Studies Seminar. University of Virginia. January 29, 2025
 
-06. Gray, L., **Simpson, E.**, and Yeon, J. (2020). (Re)Constructing an African American Communal Space: An Information Analysis of a Chicago Public Housing Archive, 1955-1970. 2020 SIG AH Virtual Symposium: Data Curation and Visualization in the Arts & Humanities.
+06. Alper, M., Rauchberg, J., **Simpson, E.**, Guberman, J., Feinberg, S. (2023). TikTok as Algorithmic Biographical Illumination: Autism, Self-Discovery, and Platformed Diagnosis on #autisktok. To be presented at the 109th National Communication Association Annual Convention – Human Communication and Technology Division. National Harbor, Maryland. November 16-19, 2023.
+
+07. Rauchberg, J.S., Alper, M., **Simpson, E.**, Guberman, J., and Feinberg, S. (2023). “Here to have fun and flight ableism”: #Autisktok User Bios as NeuroQueer Micro-Activist Platform Affordances. To be presented at the 2023 Association of Internet Researchers (AoIR) Conference. Philadelphia, PA.  October 18-21, 2023.
+
+08. **Simpson, E.** (2023). Investigating Everyday Encounters with Technology: An Exploration of How People Use, Appropriate and Live with Algorithmic Systems. Information Science Seminar Series. University of Colorado. September 27, 2023.
+
+09. Alper, M., Rauchberg, J., **Simpson, E.**, Guberman, J., Feinberg, S. (2023). “I’m My Own Target Audience”: Platform Affordances and Neurodivergent Young People’s Cultural Production on #Autisktok. TikTok Cultures Research Network Research Symposium on TikTok and Children. Online, May 8, 2023.
+
+10. Nutt, R. Gray, L., **Simpson, E.**, Yeon, J. (2022). Visualizing Collective Voices Online: Narrative, literacy, and African American Information Communities in a Photographic Archive 54th Annual Conference of the International Visual Literacy Association. Jyväskylä, Finland, 10-12 August 2022.
+
+11. Gray, L., **Simpson, E.**, and Yeon, J. (2021). Information Community Identity: Examining the Photographic Legacy of Henry Booth Settlement House in Chicago, 1900-1965. Library History Seminar XI, Spring 2021, Baton Rouge, LA.
+
+12. Gray, L., **Simpson, E.**, and Yeon, J. (2020). (Re)Constructing an African American Communal Space: An Information Analysis of a Chicago Public Housing Archive, 1955-1970. 2020 SIG AH Virtual Symposium: Data Curation and Visualization in the Arts & Humanities.

@@ -33,7 +33,7 @@ nav_order: 2
 - - -
 
 #### Conference Papers (peer reviewed, archival)
-01. **Simpson, E.,** Ermovick, R. and Sloane, M. (2026). Human Resource Management and AI: Building A Collaborative Contextual Transparency Database. Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms and Optimization (EAAMO ’26). November 5-7, Munich, Germany. https://doi.org/10.1145/3846167.3848594 [read a preprint here](assets/pdf/HRTechDB.pdf)
+01. **Simpson, E.,** Ermovick, R. and Sloane, M. (2026). Human Resource Management and AI: Building A Collaborative Contextual Transparency Database. Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms and Optimization (EAAMO ’26). November 5-7, Munich, Germany. https://doi.org/10.1145/3846167.3848594 [read a preprint here](/assets/pdf/HRTechDB.pdf)
 
 01. **Simpson, E.** and Semaan, B. (2025) Infrastructures for Inspiration: The Routine Construction of Creative Identity and Inspiration. In CHI Conference on Human Factors in Computing Systems (CHI ’25), April 26-May 1, 2025, Yokohama, Japan. ACM, New York, NY, USA, Article 111, 15 pages. https://doi.org/10.1145/3706598.3713105 [read a preprint here](/assets/pdf/InfraforInspo.pdf)
 *honorable mention, CHI '25*
